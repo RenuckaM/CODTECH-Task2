@@ -18,6 +18,11 @@
 
 ## Demo [Tap here!](https://note-taking-app-flutter.netlify.app/#/notes)
 
+![image](https://github.com/user-attachments/assets/098fa8a1-5989-44f6-965f-9162081ca062)
+
+![image](https://github.com/user-attachments/assets/4d73beec-b797-4040-8cd6-5c40a11952bc)
+
+
 The **Note-Taking App** is a practical and intuitive mobile application built using **Flutter**, designed to help users easily create, organize, and manage their notes. The app includes features such as adding, editing, deleting notes, and categorizing them. A button-like structure is used for adding sub-headings and organizing content in a hierarchical format, offering an improved user experience for note-taking.
 
 ### **Objective**
